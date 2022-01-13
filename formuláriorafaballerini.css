@@ -54,6 +54,10 @@ margin-right: 1em;
     display: block;
 }
 
+.campo input[type="email"] {
+    padding: 0.2em;
+}
+
 .campo select option{
     padding-right: 1em;
 }
